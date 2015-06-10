@@ -3,3 +3,10 @@ language: java
 jdk:
   - oraclejdk8
   - oraclejdk7
+
+notifications:
+  email:
+    recipients:
+      - thomas.s.pangborn@gmail.com
+    on_success: [change] # default: change
+    on_failure: [always] # default: always
