@@ -1,0 +1,6 @@
+//
+// HelloWorldTest Class
+//
+
+class HelloWorldTest {
+}
